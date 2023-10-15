@@ -12,6 +12,7 @@ Pillow==10.0.1
 proglog==0.1.10
 pyAesCrypt==6.1.0
 pycparser==2.21
+PyPDF2==3.0.1
 requests==2.31.0
 tqdm==4.66.1
 urllib3==2.0.6
