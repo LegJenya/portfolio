@@ -1,5 +1,7 @@
 certifi==2023.7.22
+cffi==1.16.0
 charset-normalizer==3.3.0
+cryptography==41.0.4
 decorator==4.4.2
 idna==3.4
 imageio==2.31.5
@@ -8,6 +10,8 @@ moviepy==1.0.3
 numpy==1.26.1
 Pillow==10.0.1
 proglog==0.1.10
+pyAesCrypt==6.1.0
+pycparser==2.21
 requests==2.31.0
 tqdm==4.66.1
 urllib3==2.0.6
